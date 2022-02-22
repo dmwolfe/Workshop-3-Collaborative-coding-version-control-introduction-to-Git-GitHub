@@ -10,6 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Here is a list of GitHub resources:
-
+I have no new resources, just happy that I figured this out!
 
 
